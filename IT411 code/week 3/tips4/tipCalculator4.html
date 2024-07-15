@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Tip Calculator</title>
+        <style>
+            h1 {
+                color: blue;
+            }
+        </style>
+        <script src="tipCalc.js">
+        </script>
+    </head>
+
+    <body>
+        <h1>Tip Calculator Page</h1>
+        <p>
+            <label for="billAmount">Bill Amount</label>
+            <input type="text" id="billAmount">
+            <input type="button" value="Calculate Tip" id="calcButton">
+        </p>
+
+        <p>
+            <label for="serviceMenu">Service</label>
+            <select id="serviceMenu">
+                <option>Fair</option>
+                <option>Good</option>
+                <option>Excellent</option>
+            </select>
+        </p>
+
+        <p id="tip">Tip amount will appear here</p>
+
+    </body>
+</html>
