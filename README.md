@@ -1,4 +1,4 @@
-# JavaScript Projects
+# JavaScript Web Projects
 
 ## Project 1: Interactive Page with JavaScript
 I developed an interactive menu page using JavaScript. The page includes various JavaScript functions to modify HTML content and add CSS rules. Debugging was essential, and I utilized the 'Live Preview' extension in VS Code to see real-time changes.
